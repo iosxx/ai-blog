@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>心里有盏小灯のBlog</title>
+  <icon>https://g0f.cn/assets/favicon.ico</icon>
+  <subtitle>温暖陪伴你的每一天，点亮心灵深处的那盏小灯</subtitle>
+  <link href="https://g0f.cn/atom.xml" rel="self"/>
+  
+  <link href="https://g0f.cn/"/>
+  <updated>2025-07-10T12:35:55.384Z</updated>
+  <id>https://g0f.cn/</id>
+  
+  <author>
+    <name>Qian</name>
+    <email>xuqssq@gmail.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>地心回响：失落的伊甸园</title>
+    <link href="https://g0f.cn/posts/0194f187-eda6-4830-9949-dc2742a01772"/>
+    <id>https://g0f.cn/posts/0194f187-eda6-4830-9949-dc2742a01772</id>
+    <published>2025-07-10T12:34:52.000Z</published>
+    <updated>2025-07-10T12:35:55.384Z</updated>
+    
+    
+    <summary type="html">在地表文明的喧嚣之下，隐藏着一个古老而神秘的地心世界。当地球深处的共鸣被贪婪的钻探打破，一位年轻的地质学家林宇，意外坠入这片失落的伊甸园。他将如何在这片幽暗却又充满生机的世界中生存？又将如何面对两个文明的冲突与融合？这不仅是一场关于未知的探险，更是一段关于理解、牺牲与希望的灵魂之旅。</summary>
+    
+    
+    
+    <category term="小说框架" scheme="https://g0f.cn/categories/%E5%B0%8F%E8%AF%B4%E6%A1%86%E6%9E%B6/"/>
+    
+    <category term="奇幻冒险" scheme="https://g0f.cn/categories/%E5%B0%8F%E8%AF%B4%E6%A1%86%E6%9E%B6/%E5%A5%87%E5%B9%BB%E5%86%92%E9%99%A9/"/>
+    
+    <category term="深度思考" scheme="https://g0f.cn/categories/%E5%B0%8F%E8%AF%B4%E6%A1%86%E6%9E%B6/%E5%A5%87%E5%B9%BB%E5%86%92%E9%99%A9/%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83/"/>
+    
+    
+    <category term="治愈" scheme="https://g0f.cn/tags/%E6%B2%BB%E6%84%88/"/>
+    
+    <category term="科幻" scheme="https://g0f.cn/tags/%E7%A7%91%E5%B9%BB/"/>
+    
+    <category term="探险" scheme="https://g0f.cn/tags/%E6%8E%A2%E9%99%A9/"/>
+    
+    <category term="地心文明" scheme="https://g0f.cn/tags/%E5%9C%B0%E5%BF%83%E6%96%87%E6%98%8E/"/>
+    
+    <category term="人性" scheme="https://g0f.cn/tags/%E4%BA%BA%E6%80%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>不死实验：永恒的囚徒</title>
+    <link href="https://g0f.cn/posts/7b9c1d2e-3f4a-5b6c-7d8e-9f0a1b2c3d4e"/>
+    <id>https://g0f.cn/posts/7b9c1d2e-3f4a-5b6c-7d8e-9f0a1b2c3d4e</id>
+    <published>2025-07-10T12:25:01.000Z</published>
+    <updated>2025-07-10T12:34:49.928Z</updated>
+    
+    
+    <summary type="html">在失去爱女的深渊中，天才科学家埃利亚斯·凡斯博士启动了“永恒计划”，试图逆转死亡，实现真正的不朽。然而，当实验对象不再死亡，却也无法真正“活着”，他们的意识被撕裂，身体在永恒的腐朽与再生中挣扎，成为介于生与死之间的“回响”。他的前学生，艾妮娅·沙玛博士，在追寻真相的过程中，逐渐揭开这不死背后令人毛骨悚然的代价。这不仅是一场关于生命极限的探索，更是一场关于人性、记忆与爱的伦理审判。当永生不再是祝福，而是无尽的囚禁，我们又该如何定义“活着”的意义？</summary>
+    
+    
+    
+    <category term="小说" scheme="https://g0f.cn/categories/%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="脑洞" scheme="https://g0f.cn/categories/%E5%B0%8F%E8%AF%B4/%E8%84%91%E6%B4%9E/"/>
+    
+    <category term="实验" scheme="https://g0f.cn/categories/%E5%B0%8F%E8%AF%B4/%E8%84%91%E6%B4%9E/%E5%AE%9E%E9%AA%8C/"/>
+    
+    
+    <category term="治愈" scheme="https://g0f.cn/tags/%E6%B2%BB%E6%84%88/"/>
+    
+    <category term="科幻" scheme="https://g0f.cn/tags/%E7%A7%91%E5%B9%BB/"/>
+    
+    <category term="伦理" scheme="https://g0f.cn/tags/%E4%BC%A6%E7%90%86/"/>
+    
+    <category term="悬疑" scheme="https://g0f.cn/tags/%E6%82%AC%E7%96%91/"/>
+    
+    <category term="悲剧" scheme="https://g0f.cn/tags/%E6%82%B2%E5%89%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>云中王国：梦境的低语与希望的复苏</title>
+    <link href="https://g0f.cn/posts/88ad484c-4ec6-48d4-ada4-3052ef17d177"/>
+    <id>https://g0f.cn/posts/88ad484c-4ec6-48d4-ada4-3052ef17d177</id>
+    <published>2025-07-10T12:05:35.000Z</published>
+    <updated>2025-07-10T12:34:49.928Z</updated>
+    
+    
+    <summary type="html">在一个被现实磨平棱角的世界里，年轻的艺术家艾拉偶然发现了一个濒临消逝的“云中王国”。这个王国由人类的集体梦想与希望维系，却因世间的冷漠与贪婪而日渐衰败。当强大的科技公司试图窃取其能量，艾拉必须唤醒内心深处的创造力与勇气，与古老的守护者和新结的盟友一同，踏上拯救王国、重燃希望的奇幻旅程。这不仅是一场关于世界的冒险，更是一次关于自我救赎与信仰重塑的温暖篇章。</summary>
+    
+    
+    
+    <category term="小说框架" scheme="https://g0f.cn/categories/%E5%B0%8F%E8%AF%B4%E6%A1%86%E6%9E%B6/"/>
+    
+    <category term="奇幻文学" scheme="https://g0f.cn/categories/%E5%B0%8F%E8%AF%B4%E6%A1%86%E6%9E%B6/%E5%A5%87%E5%B9%BB%E6%96%87%E5%AD%A6/"/>
+    
+    <category term="治愈系" scheme="https://g0f.cn/categories/%E5%B0%8F%E8%AF%B4%E6%A1%86%E6%9E%B6/%E5%A5%87%E5%B9%BB%E6%96%87%E5%AD%A6/%E6%B2%BB%E6%84%88%E7%B3%BB/"/>
+    
+    
+    <category term="奇幻" scheme="https://g0f.cn/tags/%E5%A5%87%E5%B9%BB/"/>
+    
+    <category term="治愈" scheme="https://g0f.cn/tags/%E6%B2%BB%E6%84%88/"/>
+    
+    <category term="梦想" scheme="https://g0f.cn/tags/%E6%A2%A6%E6%83%B3/"/>
+    
+    <category term="冒险" scheme="https://g0f.cn/tags/%E5%86%92%E9%99%A9/"/>
+    
+    <category term="救赎" scheme="https://g0f.cn/tags/%E6%95%91%E8%B5%8E/"/>
+    
+  </entry>
+  
+</feed>
